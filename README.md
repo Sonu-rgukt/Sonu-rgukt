@@ -3,7 +3,7 @@
 <!--
 **Sonu-rgukt/Sonu-rgukt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently Studying my Bachelors in strem of computer science 
 - 🌱 I’m currently learning Data Science and Machine Learning 
@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: Name: Sonu Mahanty
                       E-Mail:sonumahanty2003@gmail.com
-- 😄 Pronouns: ...
+<!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
