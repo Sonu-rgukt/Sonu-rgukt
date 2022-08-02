@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sonu-rgukt
+- 👋 Hi, I’m @Sonu Mahanty
 - 👀 I’m interested in coding and software development
 - 🌱 I’m currently learning python, machine and deep learning
 - 📫 How to reach me ...
