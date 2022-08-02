@@ -1,17 +1,17 @@
-### Hi there 👋
+- 👋 Hi, I’m @Sonu-rgukt
+- 👀 I’m interested in coding and software development
+- 🌱 I’m currently learning python, machine and deep learning
+- 📫 How to reach me ...
 
-<!--
-**Sonu-rgukt/Sonu-rgukt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:-->
+    <!-- I am Sonu Mahanty, currently doing my B-tech 3rd year on Computer science and engineering at Ap IIIT University Nuzvid.      -->
+    Name: Sonu Mahanty       
+                                                                                                    
+    Gmail: sonumahanty2003@gmail.com
+    
 
-- 🔭 I’m currently Studying my Bachelors in strem of computer science 
-- 🌱 I’m currently learning Data Science and Machine Learning 
-- 👯 I’m looking to collaborate on Open source projects to improve my skills 
-- 🤔 I’m looking for help with Machine Learning and Data Science
-- 💬 Ask me about ...
-- 📫 How to reach me: Name: Sonu Mahanty
-                      - E-Mail:sonumahanty2003@gmail.com
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!---
+thii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
