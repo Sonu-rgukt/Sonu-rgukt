@@ -8,7 +8,7 @@ Hi, I’m Sonu Mahanty 👋
 I love building AI-enabled solutions that improve user experience, automate workflows, and turn data into decisions.
 
 
-    <!-- I am Sonu Mahanty, currently doing my B-tech 3rd year on Computer science and engineering at Ap IIIT University Nuzvid.      -->
+    <!-- I’m a Computer Science graduate from IIIT Srikakulam (CGPA: 8.77) with a strong foundation in algorithms, data structures, and AI-based problem solving. I’ve cleared GATE 2025 (AIR 3917) and currently work at GO Classes as an Associate – Product & Technology Operations, where I improve learner experience and build data-driven workflows. I enjoy working with Python, SQL, Machine Learning, and Data Analytics to build AI-powered solutions that are practical and impactful.     -->
     
   -  Name: Sonu Mahanty       
                                                                                                     
