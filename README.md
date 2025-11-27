@@ -1,9 +1,9 @@
 Hi, I’m Sonu Mahanty 👋
--	•	🎓 B.Tech CSE, IIIT Srikakulam (CGPA: 8.77)
--	•	🎯 GATE 2025 qualified (AIR 3917, CS)
--	•	💼 Associate – Product & Technology Operations @ GO Classes
--	•	🤖 Working with Python, SQL, ML, Data Analytics
--	•	🧠 Interests: AI-based products, few-shot learning, NLP, EdTech tools
+-	🎓 B.Tech CSE, IIIT Srikakulam (CGPA: 8.77)
+-	🎯 GATE 2025 qualified (AIR 3917, CS)
+-	💼 Associate – Product & Technology Operations @ GO Classes
+-	🤖 Working with Python, SQL, ML, Data Analytics
+-	🧠 Interests: AI-based products, few-shot learning, NLP, EdTech tools
 
 I love building AI-enabled solutions that improve user experience, automate workflows, and turn data into decisions.
 
@@ -13,6 +13,8 @@ I love building AI-enabled solutions that improve user experience, automate work
   -  Name: Sonu Mahanty       
                                                                                                     
   -  Gmail: sonumahanty2003@gmail.com
+    
+  -  Ph: 7780390734
     
 
 
